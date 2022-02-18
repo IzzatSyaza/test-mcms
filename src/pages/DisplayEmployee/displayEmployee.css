@@ -1,0 +1,44 @@
+.displayEmployee{
+    flex: 4;
+}
+
+.employeeInfo{
+    margin: 20px;
+    padding: 30px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.entitlementContainer{
+    margin: 20px;
+    padding: 30px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.entitlementTitle {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.entitlementTable{
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 15px;
+  }
+  
+  .entitlementTh{
+    text-align: left;
+  }
+  
+  .entitlementAmount{
+    font-weight: 400;
+  }
+
+  .transactionBtn{
+    margin: 10px 15px;
+  }
+
+.btnItem {
+  padding: 8px;
+}

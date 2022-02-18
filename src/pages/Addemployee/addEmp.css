@@ -1,0 +1,19 @@
+.addEmployee{
+    flex: 4;
+}
+
+.addContainer{
+    margin: 20px;
+    padding: 30px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.addTitle {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.addItem{
+    padding: 3% 8%;
+}
